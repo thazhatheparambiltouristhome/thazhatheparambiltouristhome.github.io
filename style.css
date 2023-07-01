@@ -83,8 +83,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 25%;
-  min-width: 300px;
+  width: 18%;
+  min-width: 200px;
   height: 100%;
   background: -webkit-gradient(linear, left top, right top, from(#51b5ef), to(#436bf1));
   background: linear-gradient(to right, #51b5ef, #436bf1);
